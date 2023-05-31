@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Statics:
-<hr>
+
 <div>
 <a href="https://github.com/includedaniel">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=includedaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
