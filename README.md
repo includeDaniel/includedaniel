@@ -15,7 +15,11 @@
 [![Static Badge](https://img.shields.io/badge/next.js-blueviolet?logo=next.js)](https://nextjs.org/)
 [![Static Badge](https://img.shields.io/badge/react-blueviolet?logo=react)](https://react.dev/)
 [![Static Badge](https://img.shields.io/badge/-.NET%208.0-blueviolet)](https://dotnet.microsoft.com/pt-br/)
+[![Static Badge](https://img.shields.io/badge/-jest-blueviolet?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/)
+
 
 
 <!-- databases -->
 [![Static Badge](https://img.shields.io/badge/mysql-blueviolet?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Static Badge](https://img.shields.io/badge/postgres-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
